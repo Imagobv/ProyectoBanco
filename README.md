@@ -12,7 +12,7 @@ Sistema web de gestión bancaria y simulador de operaciones financieras desarrol
 
 ## Tecnologías Utilizadas
 
-* Frontend: Angular, TypeScript, HTML5, CSS3, Componentes UI (Angular Material / PrimeNG)
+* Frontend: Angular, TypeScript, HTML5, CSS3
 * Backend: Node.js / Express, TypeScript / JavaScript
 * Base de Datos: MySQL
 * Infraestructura y Cloud: AWS EC2, Linux (Ubuntu Server)
@@ -24,10 +24,3 @@ Sistema web de gestión bancaria y simulador de operaciones financieras desarrol
 * Node.js (v18 o superior)
 * MySQL Server
 * Angular CLI (`npm install -g @angular/cli`)
-
-### Pasos para ejecutar
-
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/Imagobv/ProyectoBanco.git](https://github.com/Imagobv/ProyectoBanco.git)
-   cd ProyectoBanco
