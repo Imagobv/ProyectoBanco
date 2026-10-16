@@ -1,7 +1,5 @@
 # ProyectoBanco
 
-# ProyectoBanco
-
 Sistema web de gestión bancaria y simulador de operaciones financieras desarrollado con TypeScript (Angular y Node.js). El proyecto incluye autenticación de usuarios, persistencia en MySQL y despliegue en servidor Linux (AWS EC2).
 
 ## Características Principales
